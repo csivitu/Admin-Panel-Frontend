@@ -1,0 +1,13 @@
+.mainPage{
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    flex: 0.65;
+}
+.mainPage__header{
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+    color: #2f3135 ;
+}

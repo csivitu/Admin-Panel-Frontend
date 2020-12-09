@@ -1,0 +1,19 @@
+.sidebar{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    align-items: center;
+    background-color: #2f3135;
+    flex: 0.35;
+    
+}
+
+.sidebarHeader{
+    display: flex;
+    padding: 20px;
+    font-size: 12px;
+    align-items: center;
+    justify-content: center;
+    color: #bebebe ;
+    border-bottom: 2px solid #2069e0 ;
+}

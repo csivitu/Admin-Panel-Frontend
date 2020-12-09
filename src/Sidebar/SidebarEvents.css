@@ -1,0 +1,19 @@
+.sidebarEvents{
+    display: flex;
+    flex-direction: column;
+    background-color: #878683  ;
+    color: #2f3135 ;
+    padding: 20px;
+    margin: 20px;
+    height: 100px;
+    border-radius: 10px;
+    width: 75%;
+    
+}
+.sidebarEvents>h3{
+    font-size: 22px;
+}
+.sidebarEvents__eventsInfo{
+    font-size: 13px;
+    margin-top: 10px;
+}
